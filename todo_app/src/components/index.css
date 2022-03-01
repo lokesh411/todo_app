@@ -1,0 +1,18 @@
+.util-button {
+    margin: 0 10px
+}
+
+.list-element {
+    margin: 5px 0;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.list-element-name {
+    flex: 30%
+}
+
+.list-element-buttons {
+    flex: 60%
+}
+
