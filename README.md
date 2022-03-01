@@ -1,2 +1,1 @@
-# todo_app
-todo app
+Sample TODO app
